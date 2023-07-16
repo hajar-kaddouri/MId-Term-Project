@@ -2,7 +2,7 @@
 
 ##
 
-This project dives into the World Happiness score and how it can be utilized to make business decisions for companies looking to migrate or start a new business. This report has gained Global significance as entities such as governments, organizations, and civil society have been increasingly using World Happiness report in order to drive better quality of policies 
+This project was a collaboration and we decided to dive into the World Happiness score and how it can be utilized to make business decisions for companies looking to migrate or start a new business. This report has gained Global significance as entities such as governments, organizations, and civil society have been increasingly using World Happiness report in order to drive better quality of policies 
 
 ##DATA
 
