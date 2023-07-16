@@ -6,6 +6,11 @@ This project dives into the World Happiness score and how it can be utilized to 
 
 ##DATA
 
+This Project was sourced from the following website:
+
+(https://www.kaggle.com/datasets/sougatapramanick/happiness-index-2018-2019)
+
+
 We will be using an EDA model for this project where we will analyse the data using different plots on python to gain greater insight as well as utilizing these findings in order to create tableau Visualizations.
 
 Some of the key areas we will be looking into are healthy Life Expectancy, GDP, and freedom to make choices and how they relate to the Happiness Score.
